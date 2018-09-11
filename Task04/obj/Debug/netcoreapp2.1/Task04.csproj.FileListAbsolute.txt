@@ -1,0 +1,10 @@
+/Users/Christian/Projects/C#/hometask1/Task04/bin/Debug/netcoreapp2.1/Task04.deps.json
+/Users/Christian/Projects/C#/hometask1/Task04/bin/Debug/netcoreapp2.1/Task04.runtimeconfig.json
+/Users/Christian/Projects/C#/hometask1/Task04/bin/Debug/netcoreapp2.1/Task04.runtimeconfig.dev.json
+/Users/Christian/Projects/C#/hometask1/Task04/bin/Debug/netcoreapp2.1/Task04.dll
+/Users/Christian/Projects/C#/hometask1/Task04/bin/Debug/netcoreapp2.1/Task04.pdb
+/Users/Christian/Projects/C#/hometask1/Task04/obj/Debug/netcoreapp2.1/Task04.csproj.CoreCompileInputs.cache
+/Users/Christian/Projects/C#/hometask1/Task04/obj/Debug/netcoreapp2.1/Task04.AssemblyInfoInputs.cache
+/Users/Christian/Projects/C#/hometask1/Task04/obj/Debug/netcoreapp2.1/Task04.AssemblyInfo.cs
+/Users/Christian/Projects/C#/hometask1/Task04/obj/Debug/netcoreapp2.1/Task04.dll
+/Users/Christian/Projects/C#/hometask1/Task04/obj/Debug/netcoreapp2.1/Task04.pdb

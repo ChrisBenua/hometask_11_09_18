@@ -1,0 +1,10 @@
+/Users/Christian/Projects/C#/hometask1/ASCIIDecoder/bin/Debug/netcoreapp2.1/ASCIIDecoder.deps.json
+/Users/Christian/Projects/C#/hometask1/ASCIIDecoder/bin/Debug/netcoreapp2.1/ASCIIDecoder.runtimeconfig.json
+/Users/Christian/Projects/C#/hometask1/ASCIIDecoder/bin/Debug/netcoreapp2.1/ASCIIDecoder.runtimeconfig.dev.json
+/Users/Christian/Projects/C#/hometask1/ASCIIDecoder/bin/Debug/netcoreapp2.1/ASCIIDecoder.dll
+/Users/Christian/Projects/C#/hometask1/ASCIIDecoder/bin/Debug/netcoreapp2.1/ASCIIDecoder.pdb
+/Users/Christian/Projects/C#/hometask1/ASCIIDecoder/obj/Debug/netcoreapp2.1/ASCIIDecoder.csproj.CoreCompileInputs.cache
+/Users/Christian/Projects/C#/hometask1/ASCIIDecoder/obj/Debug/netcoreapp2.1/ASCIIDecoder.AssemblyInfoInputs.cache
+/Users/Christian/Projects/C#/hometask1/ASCIIDecoder/obj/Debug/netcoreapp2.1/ASCIIDecoder.AssemblyInfo.cs
+/Users/Christian/Projects/C#/hometask1/ASCIIDecoder/obj/Debug/netcoreapp2.1/ASCIIDecoder.dll
+/Users/Christian/Projects/C#/hometask1/ASCIIDecoder/obj/Debug/netcoreapp2.1/ASCIIDecoder.pdb
