@@ -6,9 +6,13 @@ namespace Task11
     {
         static void Main(string[] args)
         {
+            string output = "";
             for (int i = 0; i < 3; ++i) {
-                Console.WriteLine("-" + Console.ReadLine() + "-");
+                output += "-" + Console.ReadLine() + "-\n";
             }
+
+            Console.WriteLine("Press Enter to Exit");
+            Console.ReadLine();
         }
     }
 }

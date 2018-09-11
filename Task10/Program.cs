@@ -7,9 +7,11 @@ namespace Task10
         static void Main(string[] args)
         {
             string separator = "! ";
+            string output = "";
             for (int i = 0; i < 3; ++i) {
-                Console.Write(Console.ReadLine() + separator[i == 3 ? 1 : 0]);
+                output += Console.ReadLine() + separator[i == 2 ? 1 : 0];
             }
+            Console.WriteLine(output);
         }
     }
 }
