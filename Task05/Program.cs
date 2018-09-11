@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Enter Lengths Of Two Cathetuses");
+        Console.WriteLine("Enter Lengths Of Two Cathetuses(In One Line)");
         try
         {
             var data = Array.ConvertAll(Console.ReadLine().Split(' '), int.Parse);

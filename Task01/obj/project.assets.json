@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Christian/Projects/C#/hometask1/hometask1/Task01.csproj",
+      "projectUniqueName": "/Users/Christian/Projects/C#/hometask1/Task01/Task01.csproj",
       "projectName": "Task01",
-      "projectPath": "/Users/Christian/Projects/C#/hometask1/hometask1/Task01.csproj",
+      "projectPath": "/Users/Christian/Projects/C#/hometask1/Task01/Task01.csproj",
       "packagesPath": "/Users/Christian/.nuget/packages/",
-      "outputPath": "/Users/Christian/Projects/C#/hometask1/hometask1/obj",
+      "outputPath": "/Users/Christian/Projects/C#/hometask1/Task01/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
