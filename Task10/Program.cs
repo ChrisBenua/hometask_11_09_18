@@ -12,6 +12,9 @@ namespace Task10
                 output += Console.ReadLine() + separator[i == 2 ? 1 : 0];
             }
             Console.WriteLine(output);
+
+            Console.WriteLine("Press Enter to Exit");
+            Console.ReadLine();
         }
     }
 }
